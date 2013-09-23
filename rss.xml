@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<rss version="2.0">  <channel>
+    <title>pathletboy&#39;s blog</title>
+    <link>http://pboy.ml</link>
+    <pubDate>24 Sep 13 00:49 +0800</pubDate>
+    <item>
+      <title>Hello World!</title>
+      <link>http://pboy.ml/default/Hello-World%21/</link>
+      <pubDate>2013-09-24 12:00:00 +0800</pubDate>
+      <description></description>
+    </item>
+  </channel>
+</rss>
